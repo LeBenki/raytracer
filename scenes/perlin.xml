@@ -1,0 +1,48 @@
+<xml>
+  <main>
+    eye=-200,0,10
+    dist=500
+    light=-100,5,100
+    n=4
+    AA=4
+    width=1920
+    height=1080
+    filtre=0
+    lum=1
+    expor=1
+    brillance=1
+    colorlight=255,255,255
+    eyerot=0,0,0
+  </main>
+  <sphere>
+    radius=75
+    color=120,120,255
+    pos=0,0,0
+    rot=0,0,0
+    noise=0
+    <!-- limit=30,-800000 -->
+  </sphere>
+  <sphere>
+    radius=60
+    color=120,120,255
+    pos=-80,-90,0
+    rot=0,0,0
+    noise=0.30
+    <!-- limit=30,-800000 -->
+  </sphere>
+  <sphere>
+    radius=60
+    color=120,120,255
+    pos=-80,90,0
+    rot=0,0,0
+    noise=-0.30
+    <!-- limit=30,-800000 -->
+  </sphere>
+  <plan>
+    effet=2
+    color=255,255,255
+    pos=0,0,-25
+    rot=0,0,0
+    <!-- limit=0,80,200 -->
+  </plan>
+</xml>

@@ -1,0 +1,22 @@
+<xml>
+  <main>
+    eye=-200,0,10
+    dist=500
+    light=-110,100,50
+    n=1
+    AA=8
+    width=800
+    height=600
+    lum=1
+    brillance=1
+    colorlight=255,255,255
+    eyerot=0,0,0
+  </main>
+  <plan>
+    color=0,0,255
+    pos=0,-150,-25
+    rot=0,0,0
+    trans=0.5
+    limit=1,250,250
+    </plan>
+</xml>
